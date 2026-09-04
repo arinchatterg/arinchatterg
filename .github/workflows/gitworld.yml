@@ -1,1 +1,29 @@
+name: Generate GitWorld
 
+on:
+  schedule:
+    # Runs daily at midnight
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate GitWorld SVG
+        uses: Dasmat13/git-world-action@main
+        with:
+          github_user_name: ${{ github.actor }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          svg_out_path: dist/gitworld.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/gitworld.svg
+          git diff --staged --quiet || git commit -m "Update GitWorld SVG"
+          git push
