@@ -1,1 +1,1 @@
-![My 3D Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=arinchatterg&theme=dark&stats=true)
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg)
