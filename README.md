@@ -1,1 +1,1 @@
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/arinchatterg/output/github-snake.svg)
