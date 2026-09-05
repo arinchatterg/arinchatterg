@@ -347,47 +347,47 @@
     <rect x="835.7" y="189" width="2" height="5" fill="#5a3a1a"/>
     <ellipse cx="836.7" cy="187.0" rx="4" ry="4" fill="#e76f00"/>
   </g>
-  <g class="col" data-week="49"><rect x="848.1" y="101" width="16.3" height="94"
-    fill="#e76f00" rx="1"/><rect class="win" x="850.1" y="105.0"
+  <g class="col" data-week="49"><rect x="848.1" y="106" width="16.3" height="89"
+    fill="#e76f00" rx="1"/><rect class="win" x="850.1" y="110.0"
           width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
           style="animation-delay:0.0s"/>
-    <rect class="win" x="855.1" y="105.0"
+    <rect class="win" x="855.1" y="110.0"
           width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
           style="animation-delay:0.3s"/>
-    <rect class="win" x="850.1" y="115.0"
+    <rect class="win" x="850.1" y="120.0"
           width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
           style="animation-delay:0.9s"/>
-    <rect class="win" x="860.1" y="115.0"
+    <rect class="win" x="860.1" y="120.0"
           width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
           style="animation-delay:1.5s"/>
-    <rect class="win" x="855.1" y="125.0"
+    <rect class="win" x="855.1" y="130.0"
           width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
           style="animation-delay:2.1s"/>
-    <rect class="win" x="860.1" y="125.0"
+    <rect class="win" x="860.1" y="130.0"
           width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
           style="animation-delay:2.4s"/>
-    <rect class="win" x="850.1" y="135.0"
+    <rect class="win" x="850.1" y="140.0"
           width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
           style="animation-delay:2.7s"/>
-    <rect class="win" x="855.1" y="135.0"
+    <rect class="win" x="855.1" y="140.0"
           width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
           style="animation-delay:3.0s"/>
-    <rect class="win" x="850.1" y="145.0"
+    <rect class="win" x="850.1" y="150.0"
           width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
           style="animation-delay:3.6s"/>
-    <rect class="win" x="860.1" y="145.0"
+    <rect class="win" x="860.1" y="150.0"
           width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
           style="animation-delay:4.2s"/>
-    <rect class="win" x="855.1" y="155.0"
+    <rect class="win" x="855.1" y="160.0"
           width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
           style="animation-delay:4.8s"/>
-    <rect class="win" x="860.1" y="155.0"
+    <rect class="win" x="860.1" y="160.0"
           width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
           style="animation-delay:0.1s"/>
-    <rect class="win" x="850.1" y="165.0"
+    <rect class="win" x="850.1" y="170.0"
           width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
           style="animation-delay:0.4s"/>
-    <rect class="win" x="855.1" y="165.0"
+    <rect class="win" x="855.1" y="170.0"
           width="2.5" height="2.5" fill="#fff3e0" rx="0.5"
           style="animation-delay:0.7s"/></g>
   <g>
@@ -533,13 +533,13 @@
   <g>
     <rect x="8" y="8" width="200" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#ffb74d">
-      🌍 arinchatterg's GitWorld · 20 commits
+      🌍 arinchatterg's GitWorld · 23 commits
     </text>
   </g>
   <g>
     <rect x="782" y="8" width="110" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="788" y="22" font-family="monospace" font-size="10" fill="#ffb74d">
-      🔥 1d streak
+      🔥 0d streak
     </text>
   </g>
 
